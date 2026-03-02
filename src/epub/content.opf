@@ -42,7 +42,7 @@
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Drama</meta>
 		<meta property="se:subject">Science Fiction</meta>
-		<dc:description id="description">Five linked plays explore human longetivity and governance.</dc:description>
+		<dc:description id="description">Five linked plays explore human longevity and governance.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw"&gt;George Bernard Shaw&lt;/a&gt; published this series of five linked plays in a single volume in 1921. It was first performed in 1922 in New York.&lt;/p&gt;
 			&lt;p&gt;We begin in the year 4004 BC. In the Garden of Eden, Adam and Eve discover death, and a serpent teaches them what it is to conceive new life.&lt;/p&gt;
