@@ -1,62 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="act-1-1.xhtml">
-		<ignore>
-			<code>t-041</code>
+		<ignore code="t-041">
+			<line>504</line>
+			<line>696</line>
+			<line>884</line>
+			<line>1004</line>
+			<line>1052</line>
 			<reason>Punctuation used as dialogue.</reason>
 		</ignore>
 	</file>
 	<file path="act-1-2.xhtml">
-		<ignore>
-			<code>t-041</code>
+		<ignore code="t-041">
+			<line>28</line>
 			<reason>Punctuation used as dialogue.</reason>
 		</ignore>
 	</file>
 	<file path="act-4-1.xhtml">
-		<ignore>
-			<code>t-041</code>
+		<ignore code="t-041">
+			<line>187</line>
+			<line>523</line>
+			<line>907</line>
+			<line>1173</line>
 			<reason>Punctuation used as dialogue.</reason>
 		</ignore>
 	</file>
-	<file path="part-1.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Initialism in title.</reason>
-		</ignore>
-	</file>
 	<file path="part-2.xhtml">
-		<ignore>
-			<code>t-041</code>
+		<ignore code="t-041">
 			<reason>Punctuation used as dialogue.</reason>
 		</ignore>
 	</file>
 	<file path="part-3.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Initialism in title.</reason>
-		</ignore>
-		<ignore>
-			<code>t-041</code>
+		<ignore code="t-041">
+			<line>1971</line>
 			<reason>Punctuation used as dialogue.</reason>
 		</ignore>
-		<ignore>
-			<code>y-001</code>
-			<reason>Manually checked.</reason>
-		</ignore>
-	</file>
-	<file path="part-4.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Initialism in title.</reason>
+		<ignore code="y-001">
+			<line>1351</line>
+			<reason>Not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="part-5.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Initialism in title.</reason>
-		</ignore>
-		<ignore>
-			<code>t-041</code>
+		<ignore code="t-041">
+			<line>187</line>
+			<line>523</line>
+			<line>1141</line>
+			<line>1421</line>
+			<line>1649</line>
+			<line>2788</line>
 			<reason>Punctuation used as dialogue.</reason>
 		</ignore>
 	</file>
