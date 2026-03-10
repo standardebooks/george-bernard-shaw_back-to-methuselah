@@ -27,6 +27,7 @@
 	</file>
 	<file path="part-2.xhtml">
 		<ignore code="t-041">
+			<line>1865</line>
 			<reason>Punctuation used as dialogue.</reason>
 		</ignore>
 	</file>
